@@ -1,6 +1,6 @@
 ### Hi, I'm Michael Costa
 
-## I'm master in computer science and front-end developer
+## I have a master degree in computer science and I'm also a front-end developer
 
 <p align='center'>
     <a href='https://github.com/lupsufpel'>
